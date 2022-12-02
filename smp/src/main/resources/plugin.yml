@@ -1,0 +1,21 @@
+name: SMP
+version: '${project.version}'
+main: net.arianna.smp.SMP
+api-version: 1.19
+prefix: Arcane
+authors: 0x7CD6 [Arianna]
+description: SMP plugin
+website: https://arianna.is/
+commands:
+  prefix:
+    description: set your prefix
+  taunt:
+    description: taunts
+  gm:
+    aliases: [gamemode]
+  uhc:
+    description: no
+  setlevel:
+    description: no.
+  teleport:
+    aliases: [tp]
