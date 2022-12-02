@@ -21,4 +21,8 @@ public class UtilColor {
     public static String yellow = "" + ChatColor.YELLOW;
     public static String bold = "" + ChatColor.BOLD;
     public static String reset = "" + ChatColor.RESET;
+    public static String underline = "" + ChatColor.UNDERLINE;
+    public static String italic = "" + ChatColor.ITALIC;
+    public static String magic = "" + ChatColor.MAGIC;
+    public static String strike = "" + ChatColor.STRIKETHROUGH;
 }

@@ -8,14 +8,62 @@ description: SMP plugin
 website: https://arianna.is/
 commands:
   prefix:
-    description: set your prefix
+    description: set your immortal prefix
   taunt:
     description: taunts
   gm:
     aliases: [gamemode]
   uhc:
-    description: no
+    description: no.
   setlevel:
     description: no.
   teleport:
     aliases: [tp]
+  achievements:
+    aliases: [advancements, achiev, achiv]
+  vanish:
+    aliases: [incognito, v, van, i]
+  team:
+    aliases: [teams, t, tms, tm]
+  sit:
+    description: no.
+  lay:
+    description: no.
+  crawl:
+    description: no.
+  bellyflop:
+    description: no.
+  spin:
+    description: no.
+  bosstest_phase1:
+    description: test boss1commands:
+  prefix:
+    description: set your immortal prefix
+  taunt:
+    description: taunts
+  gm:
+    aliases: [gamemode]
+  uhc:
+    description: no.
+  setlevel:
+    description: no.
+  teleport:
+    aliases: [tp]
+  achievements:
+    aliases: [advancements, achiev, achiv]
+  vanish:
+    aliases: [incognito, v, van, i]
+  team:
+    aliases: [teams, t, tms, tm]
+  sit:
+    description: no.
+  lay:
+    description: no.
+  crawl:
+    description: no.
+  bellyflop:
+    description: no.
+  spin:
+    description: no.
+  bosstest_phase1:
+    description: test boss1

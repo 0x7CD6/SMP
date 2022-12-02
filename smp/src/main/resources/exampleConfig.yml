@@ -1,0 +1,18 @@
+# File will usually be named with the users unique identifier code. 
+# This stores their Team, Deaths, Vanish state and advancements.
+team: 0
+advancement:
+  Sneak 100:
+    timeunlock: 2022-08-03 20:56:52 (GMT/BST)
+    location:
+      x: -65.81884026049539
+      y: 302.5
+      z: 37.30394862217296
+  Surge Protector:
+    timeunlock: 2022-08-04 10:28:02 (GMT/BST)
+    location:
+      x: -141.0
+      y: 301.0
+      z: 140.0
+vanish: false
+deaths: 1

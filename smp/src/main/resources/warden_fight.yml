@@ -1,0 +1,52 @@
+# This was for the warden boss fight.
+start_animation_phase1:
+  x: -52.426
+  y: 313.64701
+  z: 30.140
+  pitch: 72
+  yaw: 32.9
+crystal_phase1:
+  spawn_crystal_1:
+    x: -62.524
+    y: 311.62862
+    z: 32.472
+  spawn_crystal_2:
+    x: -69.547
+    y: 311.29493
+    z: 32.333
+  spawn_crystal_3:
+    x: -69.485
+    y: 311.29493
+    z: 39.381
+  spawn_crystal_4:
+    x: -62.424
+    y: 311.29493
+    z: 39.471
+  crystal_1:
+    x: -66
+    y: 311
+    z: 35
+  crystal_2:
+    x: -67
+    y: 311
+    z: 35
+  crystal_3:
+    x: -67
+    y: 311
+    z: 36
+  crystal_4:
+    x: -66
+    y: 311
+    z: 36
+start_phase_spawn:
+  x: -62 
+  y: 305 
+  z: 38
+  pitch: 120.4
+  yaw: 
+start_phase2:
+  x:
+  y:
+  z:
+  pitch:
+  yaw:
